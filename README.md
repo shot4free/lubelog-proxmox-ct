@@ -1,6 +1,6 @@
 # LXC Lubelogger Setup Script
 
-This script automates the setup of an LXC container with [LubeLogger])(https://lubelogger.com/) app on Proxmox VE. It installs Docker and Docker Compose, downloads necessary files, and starts an application using Docker Compose.
+This script automates the setup of an LXC container with [LubeLogger](https://lubelogger.com/) app on Proxmox VE. It installs Docker and Docker Compose, downloads necessary files, and starts an application using Docker Compose.
 
 ## Prerequisites
 
